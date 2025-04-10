@@ -10,7 +10,7 @@
   
 
 
-Deployed at: [https://jpa02-replace-me.dokku-xx.cs.ucsb.edu](https://jpa02-saahasburicha.dokku-03.cs.ucsb.edu)
+Deployed at: https://jpa02-saahasburicha.dokku-03.cs.ucsb.edu
 
 
 # About this repo
